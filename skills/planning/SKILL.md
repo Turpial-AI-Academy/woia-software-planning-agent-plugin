@@ -4,7 +4,7 @@ description: Plans incremental software delivery from requirements, architecture
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # planning

@@ -1,22 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "planning",
-  "skill": "planning",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/planning-agent-plugin",
-    "version": "1.0.1",
-    "commit": "8dbf194f9d7e6a8208e87db1d62d6bf8ec05b71b"
-  },
-  "migrated_portable_paths": [
-    "skills/planning/SKILL.md",
-    "skills/planning/assets/README.md",
-    "skills/planning/assets/plan.template.md",
-    "skills/planning/references/DEPENDENCIES_AND_PRIORITIES.md",
-    "skills/planning/references/ESTIMATION_AND_REPLANNING.md",
-    "skills/planning/references/PLANNING_MODEL.md",
-    "skills/planning/references/README.md"
-  ]
+  "skill": "planning"
 }
